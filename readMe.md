@@ -1,20 +1,20 @@
 # Rick and Morty Characters
-Simply enter a number and my app will give details about a specific Rick and Morty Character
+Simply enter a number and my app will give details about a specific Rick and Morty Character.
 
 ## Tecknologies Used
-*JavaScript
-*HTML
-*CSS
----
+* JavaScript
+* HTML
+* CSS
+
 ## Screen Shots
-![Wireframe](https://i.imgur.com/GWBsoCW.png)
+![Wireframe](https://i.imgur.com/5pVv5Db.png)
 ---
-![App Pic](https://i.imgur.com/rYB6ucT.png)
+![App Pic](https://i.imgur.com/WWMVywA.png)
 ---
 ## Get Started
 [Click here](https://project-rick-and-morty.vercel.app/) to see the site!
 
 ## Future Enhancments 
-*Improved styling
-*Bring up multiple Character side by side
-*Adding your own info that can be saved on the browser
+* Improved styling.
+* Bring up multiple Character side by side.
+* Adding your own info that can be saved on the browser.
