@@ -1,4 +1,4 @@
-// <!-- stuff -->
+
 const $name = $('#name')
 const $status = $('#status')
 const $species = $('#species')
