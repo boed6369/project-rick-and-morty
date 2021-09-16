@@ -1,9 +1,11 @@
-<Rick and Morty Character>
+# Rick and Morty Characters
 Simply enter a number and my app will give details about a specific Rick and Morty Character
+***
 
-<Tecknologies Used>
-JavaScript
-HTML
-CSS
+## Tecknologies Used
+*JavaScript
+*HTML
+*CSS
+---
 
-https://imgur.com/a/oS9R3JS
+![AppPics](https://imgur.com/a/oS9R3JS)
