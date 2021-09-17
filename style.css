@@ -4,6 +4,10 @@ body {
 }
 form {
     padding: 30px;
+
+}
+h1{
+    color: white;
 }
 
 li {
@@ -21,7 +25,6 @@ img{
     border: 10px solid red;
     border-radius: 20px;
 }
-div{
-    background-color:lightgray;
+div {
+    background-image: linear-gradient(black,white);
 }
-
